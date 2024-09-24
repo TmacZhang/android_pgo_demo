@@ -1,0 +1,10 @@
+.DS_Store
+
+app/.cxx/
+build/
+.cxx/
+.gradle/
+.idea/
+*.iml
+wrap.sh
+local.properties
